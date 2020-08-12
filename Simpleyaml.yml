@@ -1,0 +1,19 @@
+#This is a sample yaml file
+#A simple key value pair
+Fruit: Apple
+Vegetable: Carrot
+Dry-fruits: Cashews
+
+#A simple array
+Personnel:
+  - Jack
+  - Ryan
+  - Mota
+  - Chintu
+
+#A simple dictionary/map
+Marketlist:
+  Potato: 1kg
+  Onion: 1kg
+  Maggi: 3 packets
+  Banana: 1kg
