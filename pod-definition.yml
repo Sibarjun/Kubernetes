@@ -3,8 +3,10 @@ kind: Pod
 metadata:
   name: myapp-pod
   labels:
+    name: myapp-pod
     app: myapp
-    type: front-end
+    type: pod
+
 
 
 spec:
